@@ -1,0 +1,6 @@
+pystray
+Pillow
+uvicorn
+fastapi
+voicemeeterlib
+pydantic
