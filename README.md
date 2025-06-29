@@ -14,6 +14,7 @@ A web-based remote control interface for Voicemeeter, allowing you to control yo
 ## Screenshots
 
 _[Add screenshots here once you have them]_
+screenshot.png
 
 ## Requirements
 
